@@ -4,7 +4,7 @@
 | ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=Senku777&show_icons=true&theme=radical&hide_border=true) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Senku777&layout=compact&theme=radical&hide_border=true) |
 |--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 
-![Contribuciones](https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario&theme=github-dark&hide_border=true&area=true)
+![Contribuciones](https://github-readme-activity-graph.vercel.app/graph?username=Senku777&theme=github-dark&hide_border=true&area=true)
 
 ### 🛠️ Tecnologías en Uso  
 ![Skill Icons](https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css,react,nextjs,nestjs,nodejs,django,tailwind,vite,postgres,mongodb,supabase,postman,docker,aws,git)
