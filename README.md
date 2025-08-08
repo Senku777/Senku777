@@ -1,8 +1,8 @@
 # ¡Hola! 👋 Soy Victor - Ingeniero Informático  
 
 ### 📊 Estadísticas y Actividad  
-| ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=Senku777&show_icons=true&theme=radical&hide_border=true) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Senku777&theme=radical&hide_border=true) |
-|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Estadísticas](https://github-readme-stats.vercel.app/api?username=Senku777&show_icons=true&theme=radical&hide_border=true&hide_title=true) | ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Senku777&layout=compact&theme=radical&hide_border=true&hide_title=true) |
+|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ![Contribuciones](https://github-readme-activity-graph.vercel.app/graph?username=Senku777&theme=github-dark&hide_border=true&area=true)
 
