@@ -1,7 +1,13 @@
 # ¡Hola! 👋 Soy Víctor - Ingeniero Informático  
 
-### 🚀 Sobre mí  
-Ingeniero Informático especializado en desarrollo full-stack. Apasionado por crear aplicaciones escalables y eficientes con tecnologías modernas.  
+### 📊 Estadísticas y Actividad  
+| ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&hide_border=true) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical&hide_border=true) |
+|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+
+![Contribuciones](https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario&theme=github-dark&hide_border=true&area=true)
+
+### 🛠️ Tecnologías en Uso  
+![Skill Icons](https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css,react,nextjs,nestjs,nodejs,django,tailwind,vite,postgres,mongodb,supabase,postman,docker,aws,git)
 
 ### 💻 Stack Tecnológico  
 
